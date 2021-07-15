@@ -1,0 +1,1 @@
+//show posts for the id or user??
